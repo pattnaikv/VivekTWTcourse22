@@ -16,3 +16,16 @@ _GitHub is a code hosting platform for version control and collaboration._
 1. Create and Commit Changes to a Branch. ...
 1. Open a Pull Request. ...
 1. Merge Your Pull Request.
+
+
+## Stories are a communal currency of humanity
+
+### The engineers of the future will be poets
+
+**Sometimes reality is too _complex
+
+~~Scratch this
+
+[The human species thinks in metaphors and learns through stories](https://www.google.com)
+
+
