@@ -5,7 +5,7 @@ TWT session 1
 
 _GitHub is a code hosting platform for version control and collaboration._
 
-**It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.
+**It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.**
 
 -  Sign up for GitHub. In order to use GitHub, you'll need a GitHub account. ...
 -  Install Git. GitHub runs on Git. ...
@@ -22,7 +22,7 @@ _GitHub is a code hosting platform for version control and collaboration._
 
 ### The engineers of the future will be poets
 
-**Sometimes reality is too _complex
+**Sometimes reality is too _complex_*
 
 ~~Scratch this
 
