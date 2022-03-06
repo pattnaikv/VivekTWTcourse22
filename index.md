@@ -8,6 +8,10 @@ layout: curly
 
 Created by {{site.author}}
 
+{% for item in site.data.data_demo %}
+{{ item.data_demo}}
+{% endfor %}
+
 **Vivek**
 
 **India**
