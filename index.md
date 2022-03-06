@@ -8,8 +8,8 @@ layout: curly
 
 Created by {{site.author}}
 
-{% for item in site.data.data_demo %}
-{{ item.data_demo }}
+{% for item in site.data.datademo %}
+{{ item.datademo }}
 {% endfor %}
 
 **Vivek**
