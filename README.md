@@ -16,6 +16,8 @@ _GitHub is a code hosting platform for version control and collaboration._
 1. Create and Commit Changes to a Branch. ...
 1. Open a Pull Request. ...
 1. Merge Your Pull Request.
+1. 
+1. **{%include boilerplate.txt %}**
 
 
 ## Stories are a communal currency of humanity
