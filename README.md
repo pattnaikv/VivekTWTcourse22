@@ -35,3 +35,6 @@ _Pattnaik_
 [The human species thinks in metaphors and learns through stories](https://www.google.com)
 
 
+Adding files to a GitHub repository:
+1. On GitHub Web, go to your repository and click the Source tab.
+2. Click Add file
