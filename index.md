@@ -8,6 +8,8 @@ layout: curly
 
 Created by {{site.author}}
 
+**{%include boilerplate.txt %}**
+
 {% for item in site.data.datademo %}
 {{ item.datademo }}
 {% endfor %}
