@@ -18,4 +18,4 @@ Created by {{site.author}}
 
 **India**
 
-![Inserting an image as part of the final assignment](https://pixabay.com/images/search/scenery/)
+![Inserting an image as part of the final assignment](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
