@@ -1,3 +1,4 @@
+
 # We are like this only : Seven Indian isms every writer should avoid
 
 1. **_Your Good name please :It is the direct translation of the Hindi form " Aap ka shubh Naam kya hai " , Shubh meaning "good" . This sentence is used in a way as if there is also some evil before our name as well ._**
