@@ -12,4 +12,4 @@
 
 6. Xerox: The Indian Synonym for " Photocopy " . Since the xerox machine is used to get a duplicate of some content we are bound to use "xerox" in place of "photocopy" .
 
-7. Cent Percent: Meaning 100 % . She received cent percent marks in the Exam .
+7. _Cent Percent: Meaning 100 % . She received cent percent marks in the Exam ._
