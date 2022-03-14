@@ -17,3 +17,5 @@ Created by {{site.author}}
 **Vivek**
 
 **India**
+
+![Inserting an image as part of the final assignment](https://www.istockphoto.com/photo/young-woman-with-backpack-sitting-on-the-mountain-peak-and-beautiful-mountains-in-gm1288485638-384425232?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fscenic-view&utm_term=scenic%20view%3A%3A%3A)
