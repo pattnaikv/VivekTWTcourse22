@@ -18,4 +18,4 @@ Created by {{site.author}}
 
 **India**
 
-![Inserting an image as part of the final assignment](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Inserting an image as part of the final assignment](https://www.economist.com/sites/default/files/images/print-edition/20170722_STP001_0.jpg)
