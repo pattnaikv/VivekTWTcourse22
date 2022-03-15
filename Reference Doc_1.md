@@ -1,7 +1,7 @@
 # God's own child
 
 
-{% for item in titanic_datafile %}
+{% for item in titanicdatafile %}
 {{item.Name}} the age is {{item.Age}}
 {%endfor%}
 
