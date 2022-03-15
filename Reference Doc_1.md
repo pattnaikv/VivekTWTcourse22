@@ -1,8 +1,8 @@
 # God's own child
 
 
-{% for item in titanicdatafile %}
-{{item.Name}} the age is {{item.Age}}
+{% for item in site.data.titanicdatafile %}
+{{item.Name}}, {{item.Age}}
 {%endfor%}
 
 
