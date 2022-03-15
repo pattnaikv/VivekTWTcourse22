@@ -1,5 +1,13 @@
 # God's own child
 
+{{site.Feature}}
+
+{{site.data.titanic}}
+
+{% for item in site.data.titanic %}
+{{item.Name}}
+{{item.Age}}
+
 They say" **True Love"** doesn't die. I say the same.
 Is it eternal? Yes, it is.
 
